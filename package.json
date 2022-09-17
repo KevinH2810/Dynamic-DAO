@@ -1,0 +1,23 @@
+{
+  "name": "dynamic-dao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinH2810/Dynamic-DAO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinH2810/Dynamic-DAO/issues"
+  },
+  "homepage": "https://github.com/KevinH2810/Dynamic-DAO#readme",
+  "dependencies": {
+    "hardhat": "^2.11.2"
+  }
+}
